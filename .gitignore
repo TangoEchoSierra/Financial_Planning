@@ -1,3 +1,4 @@
 # ignore all env files
 *.env
 
+api_keys.env
